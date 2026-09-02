@@ -1,0 +1,7 @@
+{
+  "name": "Block Puzzle 8x8",
+  "description": "เกมพัซเซิลวางบล็อก 8x8 พร้อมระบบทำลายแถว เสียงสังเคราะห์ Web Audio และคะแนนสูงสุด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
